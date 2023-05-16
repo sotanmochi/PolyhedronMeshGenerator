@@ -1,6 +1,6 @@
 # Polyhedron Mesh Generator
 
-<img src="./Packages/PolyhedronMeshGenerator/Documentation~/Images/RegularTetrahedronMesh.png" width="50%">
+<img src="./Documentation~/Images/RegularTetrahedronMesh.png" width="50%">
 
 ## Tested Environment
 - Unity 2021.3.24f1
