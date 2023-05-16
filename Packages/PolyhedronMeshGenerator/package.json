@@ -1,0 +1,14 @@
+{
+    "name": "jp.sotanmochi.polyhedronmeshgenerator",
+    "version": "1.0.0",
+    "displayName": "Polyhedron Mesh Generator",
+    "description": "Polyhedron Mesh Generator for Unity",
+    "license": "CC0 (Public Domain)",
+    "unity": "2021.3",
+    "samples": [
+        {
+            "displayName": "PolyhedronMeshes",
+            "path": "Samples~/PolyhedronMeshes"
+        }
+    ]
+}
